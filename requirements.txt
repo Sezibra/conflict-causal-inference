@@ -1,0 +1,25 @@
+# Core data handling
+pandas>=2.0
+numpy>=1.24
+
+# Causal ML
+econml>=0.15
+dowhy>=0.11
+
+# General ML
+scikit-learn>=1.3
+shap>=0.43
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+folium>=0.14
+
+# Geospatial
+geopandas>=0.14
+
+# Statistical
+statsmodels>=0.14
+
+# Data download
+wbgapi>=1.0
