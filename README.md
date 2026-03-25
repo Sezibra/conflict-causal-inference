@@ -186,4 +186,4 @@ Causal identification with observational data, Double Machine Learning, Causal F
 | 3 | [Conflict Actor Network Analysis](https://github.com/Sezibra/conflict-network-analysis) | Complete |
 | 4 | [Conflict Forecasting with Machine Learning](https://github.com/Sezibra/conflict-forecasting-ml) | Complete |
 | 5 | **Causal Inference for Conflict with ML** (this repo) | **Complete** |
-| 6 | Satellite Imagery for Conflict Damage Assessment (optional) | Upcoming |
+| 6 | [Satellite Imagery for Conflict Damage Assessment](https://github.com/Sezibra/conflict-satellite-damage) | Complete |
